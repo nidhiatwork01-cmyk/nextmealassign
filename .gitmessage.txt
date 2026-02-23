@@ -1,0 +1,12 @@
+# <type>: <short summary>
+#
+# Types:
+# feat  - new feature
+# fix   - bug fix
+# chore - maintenance/refactor/tooling
+# docs  - documentation only
+# test  - tests only
+# style - formatting/non-functional style
+#
+# Example:
+# feat: add meal filters to dashboard
